@@ -1,0 +1,23 @@
+//increment and Decrement order
+
+int value =1;
+value ++;
+Console.WriteLine("First:" + value);
+Console.WriteLine("Second:" + value++);
+Console.WriteLine("Third:" + value);
+Console.WriteLine(" First:" + (++value));
+
+int value =1;
+++value;
+value ++ ;
+Console.WriteLine("First:" + value);
+
+;
+//Converting to Celcius
+
+int fahrenheit =94;
+decimal temperature = ((fahrenheit - 32) * 5m/9);
+Console.WriteLine( "The temperature is " + temperature + " degree celcius");
+
+
+

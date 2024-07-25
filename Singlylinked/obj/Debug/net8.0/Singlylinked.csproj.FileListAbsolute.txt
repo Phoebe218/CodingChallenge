@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\bin\Debug\net8.0\Singlylinked.exe
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\bin\Debug\net8.0\Singlylinked.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\bin\Debug\net8.0\Singlylinked.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\bin\Debug\net8.0\Singlylinked.dll
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\bin\Debug\net8.0\Singlylinked.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\obj\Debug\net8.0\Singlylinked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\obj\Debug\net8.0\Singlylinked.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\obj\Debug\net8.0\Singlylinked.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\obj\Debug\net8.0\Singlylinked.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\obj\Debug\net8.0\Singlylinked.dll
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\obj\Debug\net8.0\refint\Singlylinked.dll
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\obj\Debug\net8.0\Singlylinked.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\obj\Debug\net8.0\Singlylinked.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Singlylinked\obj\Debug\net8.0\ref\Singlylinked.dll

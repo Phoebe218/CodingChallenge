@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\bin\Debug\net8.0\Stringchallenge.exe
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\bin\Debug\net8.0\Stringchallenge.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\bin\Debug\net8.0\Stringchallenge.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\bin\Debug\net8.0\Stringchallenge.dll
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\bin\Debug\net8.0\Stringchallenge.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\obj\Debug\net8.0\Stringchallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\obj\Debug\net8.0\Stringchallenge.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\obj\Debug\net8.0\Stringchallenge.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\obj\Debug\net8.0\Stringchallenge.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\obj\Debug\net8.0\Stringchallenge.dll
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\obj\Debug\net8.0\refint\Stringchallenge.dll
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\obj\Debug\net8.0\Stringchallenge.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\obj\Debug\net8.0\Stringchallenge.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Stringchallenge\obj\Debug\net8.0\ref\Stringchallenge.dll

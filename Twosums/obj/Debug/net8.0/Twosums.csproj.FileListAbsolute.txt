@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\bin\Debug\net8.0\Twosums.exe
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\bin\Debug\net8.0\Twosums.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\bin\Debug\net8.0\Twosums.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\bin\Debug\net8.0\Twosums.dll
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\bin\Debug\net8.0\Twosums.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\obj\Debug\net8.0\Twosums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\obj\Debug\net8.0\Twosums.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\obj\Debug\net8.0\Twosums.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\obj\Debug\net8.0\Twosums.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\obj\Debug\net8.0\Twosums.dll
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\obj\Debug\net8.0\refint\Twosums.dll
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\obj\Debug\net8.0\Twosums.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\obj\Debug\net8.0\Twosums.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Twosums\obj\Debug\net8.0\ref\Twosums.dll

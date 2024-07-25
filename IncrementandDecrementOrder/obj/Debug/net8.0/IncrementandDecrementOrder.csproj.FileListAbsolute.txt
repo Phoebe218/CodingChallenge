@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\bin\Debug\net8.0\IncrementandDecrementOrder.exe
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\bin\Debug\net8.0\IncrementandDecrementOrder.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\bin\Debug\net8.0\IncrementandDecrementOrder.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\bin\Debug\net8.0\IncrementandDecrementOrder.dll
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\bin\Debug\net8.0\IncrementandDecrementOrder.pdb
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\obj\Debug\net8.0\IncrementandDecrementOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\obj\Debug\net8.0\IncrementandDecrementOrder.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\obj\Debug\net8.0\IncrementandDecrementOrder.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\obj\Debug\net8.0\IncrementandDecrementOrder.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\obj\Debug\net8.0\IncrementandDecrementOrder.dll
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\obj\Debug\net8.0\refint\IncrementandDecrementOrder.dll
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\obj\Debug\net8.0\IncrementandDecrementOrder.pdb
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\obj\Debug\net8.0\IncrementandDecrementOrder.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\IncrementandDecrementOrder\obj\Debug\net8.0\ref\IncrementandDecrementOrder.dll

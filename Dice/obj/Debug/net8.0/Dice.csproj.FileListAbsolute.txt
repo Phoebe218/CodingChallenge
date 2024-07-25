@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Dice\bin\Debug\net8.0\Dice.exe
+C:\Users\HP USERS\Desktop\c#proojects\Dice\bin\Debug\net8.0\Dice.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Dice\bin\Debug\net8.0\Dice.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Dice\bin\Debug\net8.0\Dice.dll
+C:\Users\HP USERS\Desktop\c#proojects\Dice\bin\Debug\net8.0\Dice.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Dice\obj\Debug\net8.0\Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Dice\obj\Debug\net8.0\Dice.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Dice\obj\Debug\net8.0\Dice.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Dice\obj\Debug\net8.0\Dice.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Dice\obj\Debug\net8.0\Dice.dll
+C:\Users\HP USERS\Desktop\c#proojects\Dice\obj\Debug\net8.0\refint\Dice.dll
+C:\Users\HP USERS\Desktop\c#proojects\Dice\obj\Debug\net8.0\Dice.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Dice\obj\Debug\net8.0\Dice.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Dice\obj\Debug\net8.0\ref\Dice.dll

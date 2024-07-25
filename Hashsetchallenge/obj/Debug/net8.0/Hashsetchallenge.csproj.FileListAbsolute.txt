@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\bin\Debug\net8.0\Hashsetchallenge.exe
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\bin\Debug\net8.0\Hashsetchallenge.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\bin\Debug\net8.0\Hashsetchallenge.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\bin\Debug\net8.0\Hashsetchallenge.dll
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\bin\Debug\net8.0\Hashsetchallenge.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\obj\Debug\net8.0\Hashsetchallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\obj\Debug\net8.0\Hashsetchallenge.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\obj\Debug\net8.0\Hashsetchallenge.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\obj\Debug\net8.0\Hashsetchallenge.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\obj\Debug\net8.0\Hashsetchallenge.dll
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\obj\Debug\net8.0\refint\Hashsetchallenge.dll
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\obj\Debug\net8.0\Hashsetchallenge.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\obj\Debug\net8.0\Hashsetchallenge.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Hashsetchallenge\obj\Debug\net8.0\ref\Hashsetchallenge.dll

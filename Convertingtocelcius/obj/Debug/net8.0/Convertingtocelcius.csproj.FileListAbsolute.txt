@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\bin\Debug\net8.0\Convertingtocelcius.exe
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\bin\Debug\net8.0\Convertingtocelcius.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\bin\Debug\net8.0\Convertingtocelcius.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\bin\Debug\net8.0\Convertingtocelcius.dll
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\bin\Debug\net8.0\Convertingtocelcius.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\obj\Debug\net8.0\Convertingtocelcius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\obj\Debug\net8.0\Convertingtocelcius.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\obj\Debug\net8.0\Convertingtocelcius.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\obj\Debug\net8.0\Convertingtocelcius.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\obj\Debug\net8.0\Convertingtocelcius.dll
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\obj\Debug\net8.0\refint\Convertingtocelcius.dll
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\obj\Debug\net8.0\Convertingtocelcius.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\obj\Debug\net8.0\Convertingtocelcius.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Convertingtocelcius\obj\Debug\net8.0\ref\Convertingtocelcius.dll

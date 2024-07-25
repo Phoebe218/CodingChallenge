@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\bin\Debug\net8.0\Debugmessage.exe
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\bin\Debug\net8.0\Debugmessage.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\bin\Debug\net8.0\Debugmessage.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\bin\Debug\net8.0\Debugmessage.dll
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\bin\Debug\net8.0\Debugmessage.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\obj\Debug\net8.0\Debugmessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\obj\Debug\net8.0\Debugmessage.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\obj\Debug\net8.0\Debugmessage.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\obj\Debug\net8.0\Debugmessage.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\obj\Debug\net8.0\Debugmessage.dll
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\obj\Debug\net8.0\refint\Debugmessage.dll
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\obj\Debug\net8.0\Debugmessage.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\obj\Debug\net8.0\Debugmessage.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Debugmessage\obj\Debug\net8.0\ref\Debugmessage.dll

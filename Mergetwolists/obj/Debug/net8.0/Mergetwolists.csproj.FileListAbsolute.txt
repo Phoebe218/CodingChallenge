@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\bin\Debug\net8.0\Mergetwolists.exe
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\bin\Debug\net8.0\Mergetwolists.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\bin\Debug\net8.0\Mergetwolists.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\bin\Debug\net8.0\Mergetwolists.dll
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\bin\Debug\net8.0\Mergetwolists.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\obj\Debug\net8.0\Mergetwolists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\obj\Debug\net8.0\Mergetwolists.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\obj\Debug\net8.0\Mergetwolists.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\obj\Debug\net8.0\Mergetwolists.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\obj\Debug\net8.0\Mergetwolists.dll
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\obj\Debug\net8.0\refint\Mergetwolists.dll
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\obj\Debug\net8.0\Mergetwolists.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\obj\Debug\net8.0\Mergetwolists.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Mergetwolists\obj\Debug\net8.0\ref\Mergetwolists.dll

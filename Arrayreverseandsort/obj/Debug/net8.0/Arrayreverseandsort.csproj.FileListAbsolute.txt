@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\bin\Debug\net8.0\Arrayreverseandsort.exe
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\bin\Debug\net8.0\Arrayreverseandsort.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\bin\Debug\net8.0\Arrayreverseandsort.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\bin\Debug\net8.0\Arrayreverseandsort.dll
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\bin\Debug\net8.0\Arrayreverseandsort.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\obj\Debug\net8.0\Arrayreverseandsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\obj\Debug\net8.0\Arrayreverseandsort.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\obj\Debug\net8.0\Arrayreverseandsort.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\obj\Debug\net8.0\Arrayreverseandsort.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\obj\Debug\net8.0\Arrayreverseandsort.dll
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\obj\Debug\net8.0\refint\Arrayreverseandsort.dll
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\obj\Debug\net8.0\Arrayreverseandsort.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\obj\Debug\net8.0\Arrayreverseandsort.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Arrayreverseandsort\obj\Debug\net8.0\ref\Arrayreverseandsort.dll

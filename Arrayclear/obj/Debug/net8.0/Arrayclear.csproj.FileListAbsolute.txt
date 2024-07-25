@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\bin\Debug\net8.0\Arrayclear.exe
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\bin\Debug\net8.0\Arrayclear.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\bin\Debug\net8.0\Arrayclear.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\bin\Debug\net8.0\Arrayclear.dll
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\bin\Debug\net8.0\Arrayclear.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\obj\Debug\net8.0\Arrayclear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\obj\Debug\net8.0\Arrayclear.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\obj\Debug\net8.0\Arrayclear.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\obj\Debug\net8.0\Arrayclear.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\obj\Debug\net8.0\Arrayclear.dll
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\obj\Debug\net8.0\refint\Arrayclear.dll
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\obj\Debug\net8.0\Arrayclear.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\obj\Debug\net8.0\Arrayclear.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Arrayclear\obj\Debug\net8.0\ref\Arrayclear.dll

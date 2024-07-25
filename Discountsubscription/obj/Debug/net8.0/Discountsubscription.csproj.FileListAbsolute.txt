@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\bin\Debug\net8.0\Discountsubscription.exe
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\bin\Debug\net8.0\Discountsubscription.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\bin\Debug\net8.0\Discountsubscription.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\bin\Debug\net8.0\Discountsubscription.dll
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\bin\Debug\net8.0\Discountsubscription.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\obj\Debug\net8.0\Discountsubscription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\obj\Debug\net8.0\Discountsubscription.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\obj\Debug\net8.0\Discountsubscription.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\obj\Debug\net8.0\Discountsubscription.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\obj\Debug\net8.0\Discountsubscription.dll
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\obj\Debug\net8.0\refint\Discountsubscription.dll
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\obj\Debug\net8.0\Discountsubscription.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\obj\Debug\net8.0\Discountsubscription.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Discountsubscription\obj\Debug\net8.0\ref\Discountsubscription.dll

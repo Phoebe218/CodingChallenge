@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\bin\Debug\net8.0\Arrayfirstone.exe
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\bin\Debug\net8.0\Arrayfirstone.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\bin\Debug\net8.0\Arrayfirstone.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\bin\Debug\net8.0\Arrayfirstone.dll
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\bin\Debug\net8.0\Arrayfirstone.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\obj\Debug\net8.0\Arrayfirstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\obj\Debug\net8.0\Arrayfirstone.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\obj\Debug\net8.0\Arrayfirstone.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\obj\Debug\net8.0\Arrayfirstone.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\obj\Debug\net8.0\Arrayfirstone.dll
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\obj\Debug\net8.0\refint\Arrayfirstone.dll
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\obj\Debug\net8.0\Arrayfirstone.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\obj\Debug\net8.0\Arrayfirstone.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Arrayfirstone\obj\Debug\net8.0\ref\Arrayfirstone.dll

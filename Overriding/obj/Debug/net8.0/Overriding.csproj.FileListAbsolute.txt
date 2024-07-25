@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\bin\Debug\net8.0\Overriding.exe
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\bin\Debug\net8.0\Overriding.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\bin\Debug\net8.0\Overriding.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\bin\Debug\net8.0\Overriding.dll
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\bin\Debug\net8.0\Overriding.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\obj\Debug\net8.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\obj\Debug\net8.0\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\obj\Debug\net8.0\Overriding.dll
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\obj\Debug\net8.0\refint\Overriding.dll
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\obj\Debug\net8.0\Overriding.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\obj\Debug\net8.0\Overriding.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Overriding\obj\Debug\net8.0\ref\Overriding.dll

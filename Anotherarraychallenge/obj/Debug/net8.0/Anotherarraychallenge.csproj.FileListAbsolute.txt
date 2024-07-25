@@ -1,0 +1,14 @@
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\bin\Debug\net8.0\Anotherarraychallenge.exe
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\bin\Debug\net8.0\Anotherarraychallenge.deps.json
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\bin\Debug\net8.0\Anotherarraychallenge.runtimeconfig.json
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\bin\Debug\net8.0\Anotherarraychallenge.dll
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\bin\Debug\net8.0\Anotherarraychallenge.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\obj\Debug\net8.0\Anotherarraychallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\obj\Debug\net8.0\Anotherarraychallenge.AssemblyInfoInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\obj\Debug\net8.0\Anotherarraychallenge.AssemblyInfo.cs
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\obj\Debug\net8.0\Anotherarraychallenge.csproj.CoreCompileInputs.cache
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\obj\Debug\net8.0\Anotherarraychallenge.dll
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\obj\Debug\net8.0\refint\Anotherarraychallenge.dll
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\obj\Debug\net8.0\Anotherarraychallenge.pdb
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\obj\Debug\net8.0\Anotherarraychallenge.genruntimeconfig.cache
+C:\Users\HP USERS\Desktop\c#proojects\Anotherarraychallenge\obj\Debug\net8.0\ref\Anotherarraychallenge.dll
